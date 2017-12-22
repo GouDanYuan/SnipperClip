@@ -1,0 +1,7 @@
+*.meta
+*.csproj
+*.sln
+Temp/
+ProjectSettings/
+Library/
+bin/
