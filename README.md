@@ -5,5 +5,5 @@ i hope i can upgrate the code till to playable demo.
 
 # This Demo Base On Clipper And Triangle.Net
 
-clipper http://www.angusj.com
+clipper http://www.angusj.com  \n
 Triangle.Net https://triangle.codeplex.com/
