@@ -2,6 +2,7 @@
 *.csproj
 *.sln
 Temp/
-ProjectSettings/
 Library/
 bin/
+.vs/
+obj/
