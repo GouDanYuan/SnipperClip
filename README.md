@@ -1,6 +1,6 @@
 # this is the SnipperClip program
 
-i hope i can upgrate the code till to playable demo.
+![Sample](https://github.com/GouDanYuan/SnipperClip/Sample.gif)
 
 
 # This Demo Base On Clipper And Triangle.Net
