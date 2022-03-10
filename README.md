@@ -2,7 +2,7 @@
 
 # this is the SnipperClip program
 
-![Sample](Sample.gif)
+![Sample](https://user-images.githubusercontent.com/27915116/157597288-39bea8c5-b4a4-49d9-923d-35562bd0b03a.gif)
 
 
 # This Demo Base On Clipper And Triangle.Net
